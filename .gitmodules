@@ -1,0 +1,16 @@
+[submodule "passwall/packages"]
+	path = passwall/packages
+	url = https://github.com/xiaorouji/openwrt-passwall.git
+	branch = packages
+[submodule "passwall/luci"]
+	path = passwall/luci
+	url = https://github.com/xiaorouji/openwrt-passwall.git
+	branch = luci
+[submodule "openwrt-vlmcsd"]
+	path = openwrt-vlmcsd
+	url = https://github.com/mchome/openwrt-vlmcsd
+	branch = master
+[submodule "luci-app-vlmcsd"]
+	path = luci-app-vlmcsd
+	url = https://github.com/mchome/luci-app-vlmcsd
+	branch = master
